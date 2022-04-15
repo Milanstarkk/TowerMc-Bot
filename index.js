@@ -50,4 +50,4 @@ client.on("messageCreate", message => {
 })
 
 
-client.login('process.env.token')
+client.login('data.token')
