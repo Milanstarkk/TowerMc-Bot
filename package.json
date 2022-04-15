@@ -15,5 +15,8 @@
     "discord.js": "^13.6.0",
     "distube": "^3.3.4",
     "main.js": "^0.0.1"
+  },
+  "engines": {
+    "node":"16.10.x"
   }
 }
